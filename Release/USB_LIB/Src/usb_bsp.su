@@ -1,6 +1,0 @@
-../USB_LIB/Src/usb_bsp.c:17:6:USB_OTG_BSP_EnableInterrupt.part.0	8	static
-../USB_LIB/Src/usb_bsp.c:17:6:USB_OTG_BSP_EnableInterrupt	0	static
-../USB_LIB/Src/usb_bsp.c:27:6:USB_OTG_BSP_Init	72	static
-../USB_LIB/Src/usb_bsp.c:90:6:USB_OTG_BSP_uDelay	0	static
-../USB_LIB/Src/usb_bsp.c:106:6:USB_OTG_BSP_mDelay	0	static
-../USB_LIB/Src/usb_bsp.c:113:6:OTG_HS_IRQHandler	0	static

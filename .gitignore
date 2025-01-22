@@ -1,3 +1,4 @@
 # игнорировать каталоги
-/Debug/*
-/.settings/*
+/Debug/
+/.settings/
+/Release/

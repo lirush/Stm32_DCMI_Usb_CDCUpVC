@@ -1,2 +1,0 @@
-../User/Src/uart.c:6:6:MX_USART2_UART_Init	8	static
-../User/Src/uart.c:23:6:MX_UART5_Init	8	static
