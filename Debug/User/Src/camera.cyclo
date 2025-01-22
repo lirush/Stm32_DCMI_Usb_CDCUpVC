@@ -1,8 +1,0 @@
-../User/Src/camera.c:44:6:CameraStart	1
-../User/Src/camera.c:51:6:CameraInit	1
-../User/Src/camera.c:64:9:ParseResponseToCmd	16
-../User/Src/camera.c:145:9:GrabCamFrame	4
-../User/Src/camera.c:163:6:HAL_DCMI_LineEventCallback	2
-../User/Src/camera.c:214:6:SendCommandToCameraAndParseResponse	5
-../User/Src/camera.c:241:6:HAL_UARTEx_RxEventCallback	5
-../User/Src/camera.c:260:6:CDC_ReceiveCallback_HS	3

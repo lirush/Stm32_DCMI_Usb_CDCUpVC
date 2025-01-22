@@ -1,8 +1,0 @@
-../User/Src/camera.c:44:6:CameraStart	24	static
-../User/Src/camera.c:51:6:CameraInit	0	static
-../User/Src/camera.c:64:9:ParseResponseToCmd	88	static
-../User/Src/camera.c:145:9:GrabCamFrame	8	static
-../User/Src/camera.c:163:6:HAL_DCMI_LineEventCallback	8	static
-../User/Src/camera.c:214:6:SendCommandToCameraAndParseResponse	24	static
-../User/Src/camera.c:241:6:HAL_UARTEx_RxEventCallback	16	static
-../User/Src/camera.c:260:6:CDC_ReceiveCallback_HS	24	static

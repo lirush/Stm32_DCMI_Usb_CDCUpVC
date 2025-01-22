@@ -1,6 +1,0 @@
-../User/Src/dcmi.c:6:6:HAL_DCMI_MspInit	3
-../User/Src/dcmi.c:87:6:HAL_DCMI_MspDeInit	2
-../User/Src/dcmi.c:122:6:MX_DCMI_Init	3
-../User/Src/dcmi.c:152:6:MX_DMA_Init	1
-../User/Src/dcmi.c:165:6:DMA2_Stream1_IRQHandler	1
-../User/Src/dcmi.c:172:6:DCMI_IRQHandler	1

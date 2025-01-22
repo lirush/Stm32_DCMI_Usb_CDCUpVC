@@ -1,5 +1,0 @@
-../User/Src/uart.c:9:6:HAL_UART_MspInit	56	static
-../User/Src/uart.c:46:6:HAL_UART_MspDeInit	8	static
-../User/Src/uart.c:69:6:MX_USART2_UART_Init	8	static
-../User/Src/uart.c:87:6:USART_StartIT	0	static
-../User/Src/uart.c:106:6:USART2_IRQHandler	0	static

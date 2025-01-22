@@ -1,7 +1,0 @@
-../USB_LIB/Src/usbd_usr.c:31:6:USBD_USR_Init	0	static
-../USB_LIB/Src/usbd_usr.c:42:6:USBD_USR_DeviceReset	0	static
-../USB_LIB/Src/usbd_usr.c:91:6:USBD_USR_DeviceResumed	0	static
-../USB_LIB/Src/usbd_usr.c:53:6:USBD_USR_DeviceConfigured	0	static
-../USB_LIB/Src/usbd_usr.c:63:6:USBD_USR_DeviceConnected	0	static
-../USB_LIB/Src/usbd_usr.c:73:6:USBD_USR_DeviceDisconnected	0	static
-../USB_LIB/Src/usbd_usr.c:82:6:USBD_USR_DeviceSuspended	0	static

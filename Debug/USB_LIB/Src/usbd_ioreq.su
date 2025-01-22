@@ -1,7 +1,0 @@
-../USB_LIB/Src/usbd_ioreq.c:15:14:USBD_CtlSendData	8	static
-../USB_LIB/Src/usbd_ioreq.c:31:14:USBD_CtlContinueSendData	8	static
-../USB_LIB/Src/usbd_ioreq.c:44:14:USBD_CtlPrepareRx	8	static
-../USB_LIB/Src/usbd_ioreq.c:64:14:USBD_CtlContinueRx	8	static
-../USB_LIB/Src/usbd_ioreq.c:78:14:USBD_CtlSendStatus	8	static
-../USB_LIB/Src/usbd_ioreq.c:93:14:USBD_CtlReceiveStatus	8	static
-../USB_LIB/Src/usbd_ioreq.c:109:11:USBD_GetRxCount	0	static

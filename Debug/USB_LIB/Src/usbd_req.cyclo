@@ -1,6 +1,0 @@
-../USB_LIB/Src/usbd_req.c:55:14:USBD_StdDevReq	75
-../USB_LIB/Src/usbd_req.c:100:14:USBD_StdItfReq	8
-../USB_LIB/Src/usbd_req.c:131:14:USBD_StdEPReq	24
-../USB_LIB/Src/usbd_req.c:614:6:USBD_ParseSetupRequest	1
-../USB_LIB/Src/usbd_req.c:629:6:USBD_CtlError	3
-../USB_LIB/Src/usbd_req.c:652:6:USBD_GetString	6
