@@ -1,0 +1,11 @@
+../Middlewares/Class/Composite/Src/usbd_composite.c:374:16:USBD_UVC_CDC_EP0_RxReady	1
+../Middlewares/Class/Composite/Src/usbd_composite.c:409:16:USBD_UVC_CDC_SOF	1
+../Middlewares/Class/Composite/Src/usbd_composite.c:419:16:USBD_UVC_CDC_IsoINIncomplete	1
+../Middlewares/Class/Composite/Src/usbd_composite.c:432:17:USBD_UVC_CDC_GetCfgDesc	1
+../Middlewares/Class/Composite/Src/usbd_composite.c:439:17:USBD_UVC_CDC_GetDeviceQualifierDesc	1
+../Middlewares/Class/Composite/Src/usbd_composite.c:327:17:USBD_UVC_CDC_Init	2
+../Middlewares/Class/Composite/Src/usbd_composite.c:343:17:USBD_UVC_CDC_DeInit	2
+../Middlewares/Class/Composite/Src/usbd_composite.c:359:16:USBD_UVC_CDC_Setup	3
+../Middlewares/Class/Composite/Src/usbd_composite.c:383:16:USBD_UVC_CDC_DataIn	3
+../Middlewares/Class/Composite/Src/usbd_composite.c:398:16:USBD_UVC_CDC_DataOut	2
+../Middlewares/Class/Composite/Src/usbd_composite.c:425:16:USBD_UVC_CDC_IsoOutIncomplete	1

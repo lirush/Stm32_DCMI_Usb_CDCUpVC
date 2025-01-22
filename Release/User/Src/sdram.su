@@ -1,0 +1,4 @@
+../User/Src/sdram.c:115:6:HAL_SDRAM_MspInit	48	static
+../User/Src/sdram.c:194:6:HAL_SDRAM_MspDeInit	8	static
+../User/Src/sdram.c:199:6:MX_FMC_Init	40	static
+../User/Src/sdram.c:288:6:SDRAM_Init	40	static

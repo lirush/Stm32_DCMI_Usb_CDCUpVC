@@ -1,0 +1,7 @@
+../USB_LIB/Src/usbd_desc.c:93:12:USBD_USR_DeviceDescriptor	0	static
+../USB_LIB/Src/usbd_desc.c:100:12:USBD_USR_LangIDStrDescriptor	0	static
+../USB_LIB/Src/usbd_desc.c:108:12:USBD_USR_ProductStrDescriptor	8	static
+../USB_LIB/Src/usbd_desc.c:116:12:USBD_USR_ManufacturerStrDescriptor	8	static
+../USB_LIB/Src/usbd_desc.c:123:12:USBD_USR_SerialStrDescriptor	8	static
+../USB_LIB/Src/usbd_desc.c:131:12:USBD_USR_ConfigStrDescriptor	8	static
+../USB_LIB/Src/usbd_desc.c:141:12:USBD_USR_InterfaceStrDescriptor	8	static

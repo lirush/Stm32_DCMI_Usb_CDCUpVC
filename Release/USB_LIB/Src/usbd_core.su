@@ -1,0 +1,15 @@
+../USB_LIB/Src/usbd_core.c:238:16:USBD_Resume	8	static
+../USB_LIB/Src/usbd_core.c:249:16:USBD_Suspend	8	static
+../USB_LIB/Src/usbd_core.c:261:16:USBD_SOF	8	static
+../USB_LIB/Src/usbd_core.c:288:16:USBD_IsoINIncomplete	8	static
+../USB_LIB/Src/usbd_core.c:295:16:USBD_IsoOUTIncomplete	8	static
+../USB_LIB/Src/usbd_core.c:303:16:USBD_DevConnected	8	static
+../USB_LIB/Src/usbd_core.c:310:16:USBD_DevDisconnected	8	static
+../USB_LIB/Src/usbd_core.c:215:16:USBD_Reset	8	static
+../USB_LIB/Src/usbd_core.c:92:16:USBD_SetupStage	16	static
+../USB_LIB/Src/usbd_core.c:162:16:USBD_DataInStage	16	static
+../USB_LIB/Src/usbd_core.c:120:16:USBD_DataOutStage	8	static
+../USB_LIB/Src/usbd_core.c:57:6:USBD_Init	24	static
+../USB_LIB/Src/usbd_core.c:84:13:USBD_DeInit	0	static
+../USB_LIB/Src/usbd_core.c:271:13:USBD_SetCfg	8	static
+../USB_LIB/Src/usbd_core.c:281:13:USBD_ClrCfg	8	static

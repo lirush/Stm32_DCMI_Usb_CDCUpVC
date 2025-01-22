@@ -1,0 +1,4 @@
+../User/Src/dcmi.c:6:6:HAL_DCMI_MspInit	64	static
+../User/Src/dcmi.c:86:6:HAL_DCMI_MspDeInit	8	static
+../User/Src/dcmi.c:121:6:MX_DCMI_Init	16	static
+../User/Src/dcmi.c:151:6:MX_DMA_Init	16	static

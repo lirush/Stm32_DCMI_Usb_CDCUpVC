@@ -1,0 +1,7 @@
+../USB_LIB/Src/usbd_ioreq.c:15:14:USBD_CtlSendData	1
+../USB_LIB/Src/usbd_ioreq.c:31:14:USBD_CtlContinueSendData	1
+../USB_LIB/Src/usbd_ioreq.c:44:14:USBD_CtlPrepareRx	1
+../USB_LIB/Src/usbd_ioreq.c:64:14:USBD_CtlContinueRx	1
+../USB_LIB/Src/usbd_ioreq.c:78:14:USBD_CtlSendStatus	1
+../USB_LIB/Src/usbd_ioreq.c:93:14:USBD_CtlReceiveStatus	1
+../USB_LIB/Src/usbd_ioreq.c:109:11:USBD_GetRxCount	1

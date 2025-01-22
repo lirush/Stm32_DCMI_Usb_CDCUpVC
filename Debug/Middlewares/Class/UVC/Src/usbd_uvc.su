@@ -1,0 +1,11 @@
+../Middlewares/Class/UVC/Src/usbd_uvc.c:384:16:USBD_UVC_EP0_RxReady	0	static
+../Middlewares/Class/UVC/Src/usbd_uvc.c:434:16:USBD_UVC_DataOut	0	static
+../Middlewares/Class/UVC/Src/usbd_uvc.c:468:17:USBD_UVC_GetCfgDesc	0	static
+../Middlewares/Class/UVC/Src/usbd_uvc.c:475:17:USBD_UVC_GetDeviceQualifierDesc	0	static
+../Middlewares/Class/UVC/Src/usbd_uvc.c:440:16:USBD_UVC_SOF	24	static
+../Middlewares/Class/UVC/Src/usbd_uvc.c:393:16:USBD_UVC_DataIn	992	static
+../Middlewares/Class/UVC/Src/usbd_uvc.c:308:16:USBD_UVC_DeInit	8	static
+../Middlewares/Class/UVC/Src/usbd_uvc.c:288:16:USBD_UVC_Init	8	static
+../Middlewares/Class/UVC/Src/usbd_uvc.c:455:16:USBD_UVC_IsoINIncomplete	0	static
+../Middlewares/Class/UVC/Src/usbd_uvc.c:461:16:USBD_UVC_IsoOutIncomplete	0	static
+../Middlewares/Class/UVC/Src/usbd_uvc.c:319:16:USBD_UVC_Setup	24	static

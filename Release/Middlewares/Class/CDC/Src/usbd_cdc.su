@@ -1,0 +1,14 @@
+../Middlewares/Class/CDC/Src/usbd_cdc.c:315:16:USBD_CDC_EP0_RxReady	8	static
+../Middlewares/Class/CDC/Src/usbd_cdc.c:360:16:USBD_CDC_DataOut	8	static
+../Middlewares/Class/CDC/Src/usbd_cdc.c:375:17:USBD_CDC_GetHSCfgDesc	0	static
+../Middlewares/Class/CDC/Src/usbd_cdc.c:393:10:USBD_CDC_GetDeviceQualifierDescriptor	0	static
+../Middlewares/Class/CDC/Src/usbd_cdc.c:332:16:USBD_CDC_DataIn	8	static
+../Middlewares/Class/CDC/Src/usbd_cdc.c:222:16:USBD_CDC_Setup	32	static
+../Middlewares/Class/CDC/Src/usbd_cdc.c:201:16:USBD_CDC_DeInit	16	static
+../Middlewares/Class/CDC/Src/usbd_cdc.c:154:16:USBD_CDC_Init	16	static
+../Middlewares/Class/CDC/Src/usbd_cdc.c:387:17:USBD_CDC_GetOtherSpeedCfgDesc	0	static
+../Middlewares/Class/CDC/Src/usbd_cdc.c:381:17:USBD_CDC_GetFSCfgDesc	0	static
+../Middlewares/Class/CDC/Src/usbd_cdc.c:412:9:USBD_CDC_SetTxBuffer	0	static
+../Middlewares/Class/CDC/Src/usbd_cdc.c:422:9:USBD_CDC_SetRxBuffer	0	static
+../Middlewares/Class/CDC/Src/usbd_cdc.c:431:9:USBD_CDC_TransmitPacket	8	static
+../Middlewares/Class/CDC/Src/usbd_cdc.c:457:9:USBD_CDC_ReceivePacket	8	static

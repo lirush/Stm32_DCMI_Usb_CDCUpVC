@@ -1,0 +1,7 @@
+../USB_LIB/Src/usbd_desc.c:93:12:USBD_USR_DeviceDescriptor	1
+../USB_LIB/Src/usbd_desc.c:100:12:USBD_USR_LangIDStrDescriptor	1
+../USB_LIB/Src/usbd_desc.c:108:12:USBD_USR_ProductStrDescriptor	1
+../USB_LIB/Src/usbd_desc.c:116:12:USBD_USR_ManufacturerStrDescriptor	1
+../USB_LIB/Src/usbd_desc.c:123:12:USBD_USR_SerialStrDescriptor	1
+../USB_LIB/Src/usbd_desc.c:131:12:USBD_USR_ConfigStrDescriptor	1
+../USB_LIB/Src/usbd_desc.c:141:12:USBD_USR_InterfaceStrDescriptor	1
